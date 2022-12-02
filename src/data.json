@@ -1,0 +1,108 @@
+[
+    {
+        "dexnum": 109,
+        "name": "Koffing",
+        "description": "that you saw in a sewer.",
+        "gen": 1,
+        "level": 19
+    },
+    {
+        "dexnum": 143,
+        "name": "Snorlax",
+        "description": "that you found on the side of the road.",
+        "gen": 1,
+        "level": 80
+    },
+    {
+        "dexnum": 297,
+        "name": "Hariyama",
+        "description": "that you caught outside a cave.",
+        "gen": 3,
+        "level": 68
+    },
+    {
+        "dexnum": 379,
+        "name": "Registeel",
+        "description": "that you found in some ancient ruins.",
+        "gen": 3,
+        "level": 55
+    },
+    {
+        "dexnum": 175,
+        "name": "Togepi",
+        "description": "that you hatched from an egg.",
+        "gen": 2,
+        "level": 5
+    },
+    {
+        "dexnum": 425,
+        "name": "Drifloon",
+        "description": "that you found near the city.",
+        "gen": 4,
+        "level": 22
+    },
+    {
+        "dexnum": 395,
+        "name": "Empoleon",
+        "description": "that you were given by a scientist.",
+        "gen": 4,
+        "level": 100
+    },
+    {
+        "dexnum": 405,
+        "name": "Luxray",
+        "description": "that you caught in a field.",
+        "gen": 4,
+        "level": 68
+    },
+    {
+        "dexnum": 437,
+        "name": "Bronzong",
+        "description": "that you found in a cave.",
+        "gen": 4,
+        "level": 33
+    },
+    {
+        "dexnum": 463,
+        "name": "Lickilicky",
+        "description": "that you got near a bridge.",
+        "gen": 4,
+        "level": 39
+    },
+    {
+        "dexnum": 479,
+        "name": "Rotom",
+        "description": "that you found in a Best Buy.",
+        "gen": 4,
+        "level": 25
+    },
+    {
+        "dexnum": 478,
+        "name": "Froslass",
+        "description": "that you found in the snow.",
+        "gen": 4,
+        "level": 47
+    },
+    {
+        "dexnum": 608,
+        "name": "Lampent",
+        "description": "that you caught in a mansion.",
+        "gen": 5,
+        "level": 23
+    },
+    {
+        "dexnum": 584,
+        "name": "Vanilluxe",
+        "description": "that you caught in an ice factory.",
+        "gen": 5,
+        "level": 81
+    },
+    {
+        "dexnum": 541,
+        "name": "Swadloon",
+        "description": "that you caught in the forest.",
+        "gen": 5,
+        "level": 16
+    }
+]
+  
